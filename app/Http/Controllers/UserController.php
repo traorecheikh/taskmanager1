@@ -46,6 +46,7 @@ return view('Register');
    }
 
    public function home(){
+    //dara
 
    return view('home');
    }
